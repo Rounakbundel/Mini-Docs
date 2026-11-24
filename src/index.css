@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+*{
+  font-family: Gilroy;
+}
+::selection{
+  color: chocolate;
+  
+}
+/* @import "tailwindcss"; */
